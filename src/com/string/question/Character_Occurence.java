@@ -8,7 +8,7 @@ public class Character_Occurence {
 
         Map<Character,Integer> map=new HashMap<>();
 
-        String input="AAABBB";
+        String input="Programming";
         char[] chars=input.toCharArray();
         for (char ch:chars)
         {

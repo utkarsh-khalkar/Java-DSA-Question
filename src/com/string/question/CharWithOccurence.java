@@ -4,7 +4,7 @@ import java.util.Arrays;
 
 public class CharWithOccurence {
     public static void main(String[] args) {
-        String input="AAAAAA";
+        String input="ABCDA";
         char replaceWith='A';
 
         int idx=input.indexOf(replaceWith);
