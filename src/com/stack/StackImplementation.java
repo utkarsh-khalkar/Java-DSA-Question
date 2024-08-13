@@ -80,6 +80,8 @@ public class  StackImplementation {
 //        stack.printStack();
 //        stack.pop();
         stack.printStack();
+        //D:\Java Coding Questions DSA\src\com
+        //D:\Java Coding Questions DSA\src\com\linkedList
         stack.pop();
         stack.printStack();
         System.out.println();

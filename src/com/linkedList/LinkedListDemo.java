@@ -32,7 +32,7 @@ public class LinkedListDemo {
             Node temp=head;
             while (temp!=null)
             {
-                System.out.println(temp.data);
+                System.out.print(" "+temp.data);
                 temp=temp.next;
             }
         }
@@ -43,6 +43,9 @@ public class LinkedListDemo {
         linkedListD.insertAtHead(12);
         linkedListD.insertAtHead(1);
         linkedListD.insertAtHead(34);
+        linkedListD.insertAtHead(40);
+        linkedListD.insertAtHead(50);
+        linkedListD.insertAtHead(60);
         linkedListD.display();
     }
 }
